@@ -6,7 +6,7 @@ import AppIntroSlider from 'react-native-app-intro-slider';
 const slides = [
   {
     key: 'one',
-    title: 'hy',
+    title: 'Rent a luxury car anywhere',
     text: 'Premium & prestige car. Get your best car in the fastest way.',
     image: require('./app/assets/Imagers/adrien-vajas-DIOJmxKCA6c-unsplash.jpg'),
   },
